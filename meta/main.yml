@@ -1,0 +1,17 @@
+galaxy_info:
+  role_name: yumrepo_common
+  author: youyo
+  description: install yum-utils
+  license: MIT
+  min_ansible_version: 2.4
+  platforms:
+    - name: Amazon
+    - name: EL
+      versions:
+        - 7
+        - 6
+
+  galaxy_tags:
+    - system
+
+dependencies: []
