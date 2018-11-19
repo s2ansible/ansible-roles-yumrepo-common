@@ -1,6 +1,7 @@
 galaxy_info:
   role_name: yumrepo_common
   author: youyo
+  company: heptagon inc.
   description: install yum-utils
   license: MIT
   min_ansible_version: 2.4
